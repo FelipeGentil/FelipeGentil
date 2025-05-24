@@ -29,10 +29,7 @@
 ### 📫 Contato
 
 - 🎸 Instagram: [@ofelipegentil](https://www.instagram.com/ofelipegentil/)
-- 📧 Email: pibetra28@gmail.com 
-- 💻 Site: [Syncronia – Epica Tribute](https://felipegentil.github.io/sitesyncronia/)
-
----
+- 📧 Email: pibatera28@gmail.com 
 
 <p align="center">
   <br>
