@@ -1,4 +1,4 @@
-<h1 align="center">Felipe Gentil 🤘 | Front-end Dev & Baterista Metal</h1>
+<h1 align="center">Felipe Gentil 🤘 | Front-end Dev </h1>
 
 <p align="center"> 
   💻 Desenvolvedor front-end em formação  
