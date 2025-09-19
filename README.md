@@ -9,8 +9,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎵 Sou músico e desenvolvedor web
-- 🧠 Estudando: Front-End
-- 📚 Curso de Front-End Developer – EBAC
+- 🧠 Estudando: Front-End e Back-End
 
 ---
 
